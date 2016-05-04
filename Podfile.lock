@@ -35,9 +35,9 @@ DEPENDENCIES:
   - KeychainAccess (~> 2.3.4)
   - Kingfisher
   - ObjectMapper (~> 1.1)
-  - RxBlocking (~> 2.2)
-  - RxCocoa (~> 2.2)
-  - RxSwift (~> 2.2)
+  - RxBlocking (~> 2.3.1)
+  - RxCocoa (~> 2.3.1)
+  - RxSwift (~> 2.3.1)
   - SnapKit
   - SVProgressHUD (~> 2.0-beta8)
   - Swift_cURLCommand
@@ -70,4 +70,6 @@ SPEC CHECKSUMS:
   XCGLogger: d6e196e78940ff6daab17d6917107876f973fa31
   YYText: 3050159192035d7f232b537ce76668aac2e2bd8b
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: c384c61ffd91cd0ab1cd5761539706dda2d40869
+
+COCOAPODS: 1.0.0.rc.1
